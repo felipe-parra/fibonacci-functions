@@ -2,7 +2,7 @@
 
 // n =      0  1  2  3  4  5  6   7   8   9  10
 // fib(n) = 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55
-a, b;
+// a, b;
 // Una funcion que reciba un argunmento "n", y regrese la "n"-enesima posicion
 // F(0) = 0
 // F(1) = 1
@@ -46,4 +46,4 @@ async function getFibonacciValueFromIndex(n) {
 // 3 < 3 - While, sale
 // retorno 3
 
-console.log(fibonacci(1));
+console.log(fibonacciValueOfIndex(1));
